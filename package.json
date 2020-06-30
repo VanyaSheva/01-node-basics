@@ -1,0 +1,17 @@
+{
+  "name": "module1",
+  "version": "1.0.0",
+  "description": "node first homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.4",
+    "yargs": "^15.3.1"
+  }
+}
